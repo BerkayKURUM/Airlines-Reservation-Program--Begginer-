@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D710E04-D646-436A-876D-AF9E64949B33}|Snox\u0027US Reservation\\Snox\u0027US Reservation.csproj|c:\\users\\berka\\source\\repos\\snox\u0027us reservation\\snox\u0027us reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D710E04-D646-436A-876D-AF9E64949B33}|Snox\u0027US Reservation\\Snox\u0027US Reservation.csproj|solutionrelative:snox\u0027us reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE6899-871B-41DF-8FB0-50C48D77B1F9}|Deneme\\Deneme.csproj|c:\\users\\berka\\source\\repos\\snox\u0027us reservation\\deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FE6899-871B-41DF-8FB0-50C48D77B1F9}|Deneme\\Deneme.csproj|solutionrelative:deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88884F39-67A7-4059-99C6-3041B89222DD}|Rezer Deneme\\Rezer Deneme.csproj|c:\\users\\berka\\source\\repos\\snox\u0027us reservation\\rezer deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88884F39-67A7-4059-99C6-3041B89222DD}|Rezer Deneme\\Rezer Deneme.csproj|solutionrelative:rezer deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Deneme\\Program.cs",
+              "RelativeDocumentMoniker": "Deneme\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Deneme\\Program.cs",
+              "RelativeToolTip": "Deneme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:08:42.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Rezer Deneme\\Program.cs",
+              "RelativeDocumentMoniker": "Rezer Deneme\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Rezer Deneme\\Program.cs",
+              "RelativeToolTip": "Rezer Deneme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:43:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Snox\u0027US Reservation\\Program.cs",
+              "RelativeDocumentMoniker": "Snox\u0027US Reservation\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Snox\u0027US Reservation\\Snox\u0027US Reservation\\Program.cs",
+              "RelativeToolTip": "Snox\u0027US Reservation\\Program.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAAgwAoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:06:41.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
